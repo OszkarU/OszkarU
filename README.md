@@ -35,11 +35,9 @@ Project: HR automation tool for office operations and informed decision-making
 ## Technologies 🛠️
 
 - **Languages:** Python, C#, C, C++, Go, JavaScript, TypeScript, Dart, Bash
-- **Frameworks:** Vue.js, React.js, Flutter
-- **Web:** HTML, CSS
+- **Web & Frameworks:** Vue.js, React.js, Flutter, HTML, CSS
 - **Cloud Platforms:** Google Cloud Platform, AWS, Digital Ocean
-- **Databases:** MongoDB, Realtime Database
-- **Tools:** Meta Spark Studio, Git, Linux
+- **Tools and others:** Docker & Kubernetes, Git, Linux, Meta Spark Studio
 
 ## Project Experience 🚀
 
