@@ -1,13 +1,13 @@
 # Hi there! 👋
 
-I'm Oszkár Urbán, student of Computer Science. I am a tech & entrepreneurship enthisiast passionate about **Language Theory**, **Machine Learing** and its application in **Neuroscience**. I thrive in product-driven environments and I am excited about the opportunity to join a team with an impactful technological product. 
+I'm Oszkár Urbán, student of Computer Science. I am a tech & entrepreneurship enthisiast passionate about **Natural Language Processing** 📊:chart_with_upwards_trend:, **Machine Learing** 🤖 and its application in **Neuroscience** 🧠. I thrive in product-driven environments and I am excited about the opportunity to join a team with an impactful technological product. 
 
 **I am open to a Software Engineer Internship position for the Summer of 2024**
 
 ## Education 📚
 
-- **BSc Computer Science**
-  - Charles University in Prague, Prague, Czechia
+- **Charles University in Prague, Czechia**
+  - BSc Computer Science
   - Courses: Algorithms & Programming, Mathematical Analysis, Linear Algebra, Networking
 
 ## Work Experience 💼
@@ -63,7 +63,8 @@ Project: HR automation tool for office operations and informed decision-making
 - Coordinated ongoing product improvements that resulted in a 9% customer satisfaction increase.
 - Awards: Junior Achievement Leadership Award, Junior Achievement Company of the Year 2021, Ralph De La Vega Global Entrepreneurship Award
 
-Feel free to reach out via email [osiurban@gmail.com](mailto:osiurban@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/oszkarurban)
+Feel free to reach out via email [osiurban@gmail.com](mailto:osiurban@gmail.com) or connect on <a href="https://www.linkedin.com/in/oszkarurban/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 
 <!--
 **OszkarU/OszkarU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
