@@ -4,6 +4,8 @@ I'm Oszkár Urbán, student of Computer Science. I am a tech & entrepreneurship 
 
 **I am open to a Software Engineer Internship position for the Summer of 2024**
 
+
+
 ## Education 📚
 
 - **Charles University in Prague, Czechia**
@@ -67,6 +69,9 @@ Feel free to reach out via email [osiurban@gmail.com](mailto:osiurban@gmail.com)
 
 
 <!--
+<img src="https://myreadme.vercel.app/api/embed/OszkarU?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
 **OszkarU/OszkarU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
