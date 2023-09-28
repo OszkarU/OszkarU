@@ -8,7 +8,7 @@ I'm Oszkár Urbán, student of Computer Science. I am a tech & entrepreneurship 
 
 ## Education 📚
 
-- **Charles University in Prague, Czechia**
+- **Charles University in Prague**
   - BSc Computer Science (specialization: Artificial Intelligence)
   - Courses: Algorithms & Programming, Mathematical Analysis, Linear Algebra, Computer Networking
   - [Computational Systems Neuroscience Group](https://csng.mff.cuni.cz/)
