@@ -44,6 +44,9 @@ Project: HR automation tool for office operations and informed decision-making
 
 ## Project Experience 🚀
 
+### pAIntry - AI cooking assistant (ML project)
+- Developed and fine-tuned a prompt-driven AI web app, crafting personalized recipes by analyzing inventory
+
 ### Meta Spark Hackathon - Winner
 - Created an AR filter utilizing Meta Spark Studio's Object and Face tracker features.
 
