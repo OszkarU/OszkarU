@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Oszkár Urbán, student of Computer Science. I am a tech & entrepreneurship enthisiast passionate about **Natural Language Processing** 📊:chart_with_upwards_trend:, **Machine Learing** 🤖 and its application in **Neuroscience** 🧠. I thrive in product-driven environments and I am excited about the opportunity to join a team with an impactful technological product. 
+I'm Oszkár Urbán, student of Computer Science. I am a tech & entrepreneurship enthusiast passionate about **Natural Language Processing** 📊:chart_with_upwards_trend:, **Machine Learning** 🤖 and its application in **Neuroscience** 🧠. I thrive in product-driven environments and I am excited about the opportunity to join a team with an impactful technological product. 
 
 **I am open to a Software Engineer Internship position for the Summer of 2024**
 
@@ -9,8 +9,9 @@ I'm Oszkár Urbán, student of Computer Science. I am a tech & entrepreneurship 
 ## Education 📚
 
 - **Charles University in Prague, Czechia**
-  - BSc Computer Science
-  - Courses: Algorithms & Programming, Mathematical Analysis, Linear Algebra, Networking
+  - BSc Computer Science (specialization: Artificial Intelligence)
+  - Courses: Algorithms & Programming, Mathematical Analysis, Linear Algebra, Computer Networking
+  - [Computational Systems Neuroscience Group](https://csng.mff.cuni.cz/)
 
 ## Work Experience 💼
 
